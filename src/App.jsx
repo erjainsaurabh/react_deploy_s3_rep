@@ -22,7 +22,7 @@ function App() {
           count is {count}
         </button>
         <p>
-          Edit <code>src/App.jsx</code> and save to Saurabh second test without local build
+          Edit <code>src/App.jsx</code> and save to Saurabh second test with change in code
         </p>
       </div>
       <p className="read-the-docs">
